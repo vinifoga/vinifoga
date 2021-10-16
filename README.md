@@ -2,7 +2,7 @@
 ### Um dev apaixonado por tecnologia 
 
 - 🔭 Hoje trabalho no desenvolvimento de uma folha de pagamento utilizando Spring Boot e outras tecnologias
-- 🌱 Estudando Flutter
+- 🌱 Aprendendo Flutter
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC - Sorocaba;
 
 <div>
