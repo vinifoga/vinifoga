@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho no desenvolvimento de uma folha de pagamento utilizando Spring Boot e outras tecnologias
 - 🌱 Aprendendo Flutter
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC - Sorocaba;
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC - Sorocaba;
 
 <div>
   <a href="https://www.linkedin.com/in/vinicius-f-fogaca">
