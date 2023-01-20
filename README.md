@@ -1,7 +1,7 @@
 ## Olá! Eu sou Vinicius Fogaça
 ### Um dev apaixonado por tecnologia 
 
-- 🔭 Hoje trabalho no desenvolvimento de uma folha de pagamento utilizando Spring Boot e outras tecnologias
+- 🔭 Trabalhando como desenvolvedor Java Backend
 - 🌱 Aprendendo Flutter
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC - Sorocaba;
 
