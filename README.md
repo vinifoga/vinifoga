@@ -1,7 +1,7 @@
 ## Olá! Eu sou Vinicius Fogaça
 ### Um dev apaixonado por tecnologia 
 
-- 🔭 Trabalhando como desenvolvedor Java Backend
+- 🔭 Trabalhando como desenvolvedor FullStack Java e Angular
 - 🌱 Aprendendo Flutter
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC - Sorocaba;
 
