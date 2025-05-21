@@ -7,7 +7,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/vinicius-f-fogaca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinifoga&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinifoga&layout=compact&langs_count=16&theme=dracula"/></a>
 </div>
 
